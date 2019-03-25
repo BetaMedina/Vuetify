@@ -9,14 +9,14 @@
             <v-icon left small>folder</v-icon >
             <span class="caption text-lowercase">By project name</span>
           </v-btn>
-          <span>sort by folder</span>
+          <span>Sort by folder</span>
         </v-tooltip>
         <v-tooltip top>
           <v-btn small flat color="grey" @click="sortBy('person')" slot="activator">
             <v-icon left small>person</v-icon>
             <span class="caption text-lowercase">By person</span>
           </v-btn>
-          <span>sort by person</span>
+          <span>Sort by person</span>
         </v-tooltip>
       </v-layout>
 

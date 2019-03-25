@@ -37810,7 +37810,7 @@ var render = function() {
                     1
                   ),
                   _vm._v(" "),
-                  _c("span", [_vm._v("sort by folder")])
+                  _c("span", [_vm._v("Sort by folder")])
                 ],
                 1
               ),
@@ -37847,7 +37847,7 @@ var render = function() {
                     1
                   ),
                   _vm._v(" "),
-                  _c("span", [_vm._v("sort by person")])
+                  _c("span", [_vm._v("Sort by person")])
                 ],
                 1
               )
