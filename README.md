@@ -1,4 +1,4 @@
-# Vuetify <br>
+# Vuetify.js <br>
 
 **Para rodar o projeto:**<br>
 _1->composer install_ <br>
